@@ -1,0 +1,62 @@
+.shiva img{
+
+    float:left;
+    width:150px;
+    height:220px;
+}
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 30pt;
+}
+                
+#bg_a {
+    background-image: url("../img/om.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+#link_a{
+    color: orangered;
+    text-align: right;
+    font-family: sans-serif;
+}
+#align{
+    text-align: left;    
+}
+#bg_d{
+    background-image: url("../img/wood.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.text p{
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#link_d{
+    color: wheat;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#title_d{
+    color: wheat;
+}
+#welcome{
+    color: black;
+    -webkit-text-size-adjust: 10%;
+}
+#bg_i{
+    background-image: url("../img/book.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.bg 
+{
+    background-image: url("img/book.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
